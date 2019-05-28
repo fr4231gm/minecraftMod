@@ -1157,8 +1157,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-05-26 16:19:44 +0200",
       "minecraft:forest": "2019-05-26 15:48:40 +0200",
+      "minecraft:mountains": "2019-05-26 16:19:44 +0200",
       "minecraft:taiga": "2019-05-26 16:01:46 +0200",
       "minecraft:dark_forest": "2019-05-26 16:40:43 +0200",
       "minecraft:river": "2019-05-26 15:53:43 +0200",
