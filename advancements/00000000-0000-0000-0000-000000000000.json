@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-06-04 10:33:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-05-26 16:09:18 +0200"
@@ -1692,8 +1698,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-05-30 16:37:34 +0200",
-      "minecraft:mountains": "2019-05-26 16:19:44 +0200",
       "minecraft:forest": "2019-05-26 15:48:40 +0200",
+      "minecraft:mountains": "2019-05-26 16:19:44 +0200",
       "minecraft:taiga": "2019-05-26 16:01:46 +0200",
       "minecraft:desert_hills": "2019-05-30 16:13:16 +0200",
       "minecraft:deep_cold_ocean": "2019-05-30 16:41:34 +0200",
